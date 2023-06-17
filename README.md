@@ -9,3 +9,5 @@ Download Visual Studio Code: https://code.visualstudio.com/download for your ope
 
 Work through the Getting Started with Python in VS Code tutorial: https://code.visualstudio.com/docs/python/python-tutorial.
 Create a local folder, download finance_calculators.py and place the file in the local folder. Open VS Code and navigate to the local folder.
+
+![image](https://github.com/jeffbarnfield/finalCapstone/assets/121809556/d691692d-6aaf-44f2-9c60-720c76890e04)
